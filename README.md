@@ -56,3 +56,5 @@ This implementation balances performance with reliability, making it suitable fo
 models, while the safety features ensure stable operation across diverse deployment environments. The code demonstrates best practices for deploying large language models in resource-constrained scenarios.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/f863fdf0-5539-4c3b-9f08-a1ac63d90222)
